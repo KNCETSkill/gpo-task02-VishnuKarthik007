@@ -6,7 +6,7 @@ public class attendancestatusevaluator{
     if(a>85)
       System.out.println("Excellent");
     if-else(a<85&&a>60)
-      System.out.println("Satisfatory");
+      System.out.println("Satisfactory");
     else
       System.out.println("Poor");
   }
